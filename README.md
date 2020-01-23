@@ -11,6 +11,10 @@ Unzip the file and import the packages into your Unity project.
 
 When the 'Current Count' varible is equal to or greater than the 'Needed Amount', the counter event onComplete will be called. To add progress, call the 'Add' function in this script and fill in the amount you wish to add in the parameters field.
 
+![Delayed Event](https://github.com/ShockerStudios/StarterToolkit/blob/master/Info/DelayedEvent.png)
+
+The onDelayedEvent is called after a set amount of time. This can be called in two ways. You can set the 'Start Event On Play' to immeditaely call the delayed event when this object begins its instance. Set the 'Default Delay Time' to the time you wish to wait. Or you may call the 'StartDelayEvent' and put a float variable in its parameters.
+
 # Where to look for ideas
 [Ludum Dare Games](http://ldjam.com/games)
 
