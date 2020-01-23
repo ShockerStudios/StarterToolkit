@@ -14,13 +14,19 @@ Counter Event
 
 When the 'Current Count' varible is equal to or greater than the 'Needed Amount', the counter event onComplete will be called. To add progress, call the 'Add' function in this script and fill in the amount you wish to add in the parameters field.
 
+Delayed Event
+
 ![Delayed Event](https://github.com/ShockerStudios/StarterToolkit/blob/master/Info/DelayedEvent.png)
 
 The onDelayedEvent is called after a set amount of time. This can be called in two ways. You can set the 'Start Event On Play' to immeditaely call the delayed event when this object begins its instance. Set the 'Default Delay Time' to the time you wish to wait. Or you may call the 'StartDelayEvent' and put a float variable in its parameters.
 
+Game Event
+
 ![Game Event](https://github.com/ShockerStudios/StarterToolkit/blob/master/Info/GameEvent.png)
 
 The Game Event is a go between asset between an object that will call the event and the listeners that are waiting for the event to be raised. Set the name of the Game Event to a description of the event. Something like "PlayerDied"
+
+Game Event Listener
 
 ![Game Event Listener](https://github.com/ShockerStudios/StarterToolkit/blob/master/Info/GameEventListener.png)
 
