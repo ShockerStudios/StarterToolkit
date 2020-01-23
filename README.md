@@ -7,6 +7,9 @@ A set of standard event scripts and useful links
 Unzip the file and import the packages into your Unity project.
 
 # How to Use Scripts
+
+# Counter Event
+
 ![Counter Event](https://github.com/ShockerStudios/StarterToolkit/blob/master/Info/CounterEvent.png)
 
 When the 'Current Count' varible is equal to or greater than the 'Needed Amount', the counter event onComplete will be called. To add progress, call the 'Add' function in this script and fill in the amount you wish to add in the parameters field.
