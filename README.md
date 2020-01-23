@@ -32,6 +32,17 @@ Game Event Listener
 
 The listener is a component that waits for a specific Game Event to be raised (called).
 
+Initialize Events
+
+![Initialize Events](https://github.com/ShockerStudios/StarterToolkit/blob/master/Info/InitEvents.png)
+
+These events are the three that begin at the start of an objects life. On Awake is the first event that is called before any Start or Update function. Use this one to set first settings.
+
+On Start is called after this.
+
+On Enabled is called anytime an objects is set to active.
+
+
 # Where to look for ideas
 [Ludum Dare Games](http://ldjam.com/games)
 
