@@ -7,7 +7,7 @@ A set of standard event scripts and useful links
 Unzip the file and import the packages into your Unity project.
 
 # How to Use Scripts
-[Counter Event](https://github.com/ShockerStudios/StarterToolkit/blob/master/Info/CounterEvent.png)
+![Counter Event](https://github.com/ShockerStudios/StarterToolkit/blob/master/Info/CounterEvent.png)
 
 # Where to look for ideas
 [Ludum Dare Games](http://ldjam.com/games)
