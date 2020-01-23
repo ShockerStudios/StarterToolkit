@@ -42,6 +42,15 @@ On Start is called after this.
 
 On Enabled is called anytime an objects is set to active.
 
+Trigger Event 2D
+
+![Trigger Event 2D](https://github.com/ShockerStudios/StarterToolkit/blob/master/Info/Trigger2D.png)
+
+Trigger Event 3D
+
+![Trigger Event 3D](https://github.com/ShockerStudios/StarterToolkit/blob/master/Info/Trigger3D.png)
+
+
 
 # Where to look for ideas
 [Ludum Dare Games](http://ldjam.com/games)
