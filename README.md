@@ -8,7 +8,7 @@ Unzip the file and import the packages into your Unity project.
 
 # How to Use Scripts
 
-# Counter Event
+Counter Event
 
 ![Counter Event](https://github.com/ShockerStudios/StarterToolkit/blob/master/Info/CounterEvent.png)
 
