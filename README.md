@@ -70,6 +70,8 @@ Trigger Event 3D
 [Prime 31 2D Controller](https://github.com/prime31/CharacterController2D)
 
 # 3D Game Template/Resources
+[Super Character Controller](https://github.com/IronWarrior/SuperCharacterController)
+
 [3D Game Kit](https://assetstore.unity.com/packages/templates/tutorials/3d-game-kit-lite-135162)
 
 [First Person All In One](https://assetstore.unity.com/packages/templates/systems/first-person-all-in-one-135316)
