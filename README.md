@@ -26,6 +26,8 @@ The onDelayedEvent is called after a set amount of time. This can be called in t
 
 The Game Event is a go between asset between an object that will call the event and the listeners that are waiting for the event to be raised. Set the name of the Game Event to a description of the event. Something like "PlayerDied"
 
+This is an implementation of Ryan Hipples scrtipable object event system. [Find out about it here.](https://unity3d.com/how-to/architect-with-scriptable-objects)
+
 ### Game Event Listener
 
 ![Game Event Listener](https://github.com/ShockerStudios/StarterToolkit/blob/master/Info/GameEventListener.png)
